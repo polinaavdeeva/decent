@@ -4,7 +4,7 @@ Backend: https://restcountries.com/
 ## Usage
 Clone repository:
 
-  `git clone git@github.com:IrinaGarmaeva/mesto-react.git`
+  `https://github.com/polinaavdeeva/decent.git`
 
 Install dependencies:
 
