@@ -1,0 +1,18 @@
+.country {
+  background-color: #fff6e3;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 30px;
+}
+
+.country__progress {
+  background-color: #fff6e3;
+}
+
+.country__card {
+  width: 60% !important;
+}

@@ -1,0 +1,47 @@
+.country-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff6e3;
+}
+
+.country-page__progress {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff6e3;
+}
+.country-page__title {
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.country-page__list {
+  width: 80% !important;
+  margin-left: 10%;
+}
+.country-page__img {
+  width: 70% !important;
+}
+
+.country-page__img:hover {
+  opacity: 0.6;
+}
+
+.country-page__item {
+  display: flex;
+  justify-content: center;
+}
+
+.country-page__subtitle {
+  width: 70% !important;
+}
+
+.country-page__link {
+  text-decoration: none;
+  color: black;
+}
